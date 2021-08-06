@@ -1,4 +1,15 @@
 {
-  "coc.preferences.formatOnSaveFiletypes": ["ts", "js"],
-  "eslint.autoFixOnSave": true
+    "coc.preferences.formatOnSaveFiletypes": [
+        "js",
+        "javascript",
+        "typescript",
+        "typescriptreact",
+        "json",
+        "javascriptreact",
+        "typescript.tsx"
+    ],
+    "javascript.validate.enable": false,
+    "omnisharp.version": "v1.37.3",
+    "omnisharp.trace.server": "information",
+    "omnisharp.debug.server": true
 }
